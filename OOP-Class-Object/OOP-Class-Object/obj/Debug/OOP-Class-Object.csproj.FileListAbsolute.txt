@@ -1,0 +1,7 @@
+G:\OOP\OOP-Class-Object\OOP-Class-Object\bin\Debug\OOP-Class-Object.exe.config
+G:\OOP\OOP-Class-Object\OOP-Class-Object\bin\Debug\OOP-Class-Object.exe
+G:\OOP\OOP-Class-Object\OOP-Class-Object\bin\Debug\OOP-Class-Object.pdb
+G:\OOP\OOP-Class-Object\OOP-Class-Object\obj\Debug\OOP-Class-Object.csprojAssemblyReference.cache
+G:\OOP\OOP-Class-Object\OOP-Class-Object\obj\Debug\OOP-Class-Object.csproj.CoreCompileInputs.cache
+G:\OOP\OOP-Class-Object\OOP-Class-Object\obj\Debug\OOP-Class-Object.exe
+G:\OOP\OOP-Class-Object\OOP-Class-Object\obj\Debug\OOP-Class-Object.pdb
